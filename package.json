@@ -1,0 +1,11 @@
+{
+  "name": "selectcameraapp",
+  "version": "1.0.0",
+  "description": "vue.jsで作成したカメラの選び方アプリです",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
